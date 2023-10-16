@@ -1,0 +1,11 @@
+#### Research Centre Statistics
+
+|Research Centre|Electronics Engineering|Mechanical Engineering|Computer Engineering|
+|---|---|---|---|
+|Year of Introduction|2014|2015|2023|
+|Sanctioned Intake|14|10|10|
+|No. of Candidates pursuing Ph.D.|7|8|6|
+|No. of Candidates Registered|5|5|6|
+|No. of Candidates with Thesis Submitted|1|1|-|
+|No. of Candidates with Ph.D. Awarded|7|2|-|
+|Total Vacancies|7|2|4|

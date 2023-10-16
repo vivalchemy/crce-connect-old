@@ -1,0 +1,9 @@
+#### Trustees
+
+|Sr.|Name|Designation|
+|---|---|---|
+|1|Fr. Bento Rodrigues |Chairman|
+|2|Fr. Alarico Carvalho|Vice Chairman|
+|3|Fr. Peter D'Souza|Treasurer|
+|4|Fr. Valerian D'Souza|Secretary|
+|5|Fr. Agnelo Gomes|Member|

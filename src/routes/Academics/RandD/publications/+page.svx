@@ -1,0 +1,27 @@
+#### Publications,Patents,Funded Projects
+
+**Computer Engineering Research Publications**
+1. Pranav Gangurde, Melita Japhet. Clafacio Lobo, Nilesh Patil, Prachi Patil, "ResStorage - Blockchain Based Decentralized Resume Storage Application",in 2022 IEEE World Conference on Applied Intelligence and Computing (AIC), August 2022
+
+2. Varad Patil, Dhrumil Shah, Yash Sankpal, Prajakta Dhamanskar, Prajakta Bhangale, " EARTHQUAKE MAGNITUDE PREDICTION USING NEURAL NETWORKS" Volume No. 14, Issue- 5, October-December 2022 in Samriddhi: A Journal of Physical Sciences, Engineering and Technology, Impact Factor: 6.6, UGC Care Approved, Peer Reviewed and Referred Journal
+
+3. Robin Lobo, Sonali Joshi, Joel Syrus Fernandes, Prajakta Bhangale, Prajakta Dhamanskar, "A COMPUTABLE STUDY ON TACTICS TOWARDS CRIME PREDICTION AND ANALYSIS", Volume No. 14, Issue- 5, October-December 2022 in Samriddhi: A Journal of Physical Sciences, Engineering and Technology, Impact Factor: 6.6, UGC Care Approved, Peer Reviewed and Referred Journal
+
+4. Tanisha Harry Braganza; Fatima Felix Pereira; Sameeksha Pravin Rane; Kranti Wagle, "Multipurpose Application for the Visually Impaired", 2022 2nd Asian Conference on Innovation in Technology (ASIANCON),26-28 August 2022
+
+5. Sumit Kothari, Sujata Deshmukh, Samarth Mehta, "Comparison of Age, Gender and Ethnicity Prediction Using Traditional CNN and Transfer Learning", 13th IEEE INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) 2022, October 3rd-5th, 2022
+
+6. "Optimal Hybrid LSTM-RNN for Image Captioning with Deep Features", Kalpana Deorukhkar, Satish Ket, International Conference on Embracing Industry 4.0 Technologies for Sustainable Growth (ICEI 4.0). April 2022.
+
+7. Brendan Lucas, Aditya Mahamuni, Vinyas Kulal, Abhi Gupta, Kalpana Deorukhkar, "Affordable Real-Time Heart Rate. ECG & SpO2 Monitoring System Using Internet of Things (IoT)", Volume 10, Issue XI, International Journal for Research in Applied Science and Engineering Technology (JRASET) Page No: 1852-1858, ISSN: 2321-9653, www.ijraset.com
+8. Ron George, Prof. Swati Ringe, Clayton Almeida, Akshay Naphade, "Resolving the Data Imbalance problem in Fraud Detection Using Sampling and Machine Learning Techniques", POSITIF Journal, Vol22 Issue 7 2022, ISSN NO: 0048- 4911 https://doi.org/10.37896/psj30.7/1201
+
+9. Thomas, M. and Meshram, B.B. (2023) "ChSO-DNFNet: Spam detection in Twitter using feature fusion and optimized Deep Neuro Fuzzy Network," Advances in Engineering Software [Preprint], (175). Available at: https://doi.org/https://doi.org/10.1016/j.advengsoft.2022.103333.
+
+10. Thomas, M. and Meshram, B.B. (2022) "A Brief Review of Network Forensics Process Models and a Proposed Systematic Model for Investigation," Intelligent Cyber Physical Systems and Internet of Things [Preprint), (Chapter 45). Available at: DOI: 10.1007/978-3-031-18497-0
+
+11. Merly Thomas, B. B Meshram, "Combating the Distributed Network Attacks using A Proposed Progressive Analyzer based on an Ensemble Learning Framework", 13th IEEE INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) 2022, October 3rd-5th, 2022
+
+12. Pranav Gangurde, Melita Japhet. Clafacio Lobo, Nilesh Patil, Prachi Patil, "ResStorage - Blockchain Based Decentralized Resume Storage Application",in 2022 IEEE World Conference on Applied Intelligence and Computing (AIC), August 2022.
+
+13. Vijay Shelake, Narendra Shekokar, Cyber Security Threats and Challenges Facing Human Life (1st ed.). Chapman and Hall/CRC, Taylor & Francis, 2022

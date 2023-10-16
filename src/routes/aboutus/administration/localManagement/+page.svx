@@ -1,0 +1,15 @@
+
+#### Local Management council
+|#|Name|Desifnation|
+|---|---|---|
+|1| Rev. Fr. Valerian D'Souza|Local Superior, Director|
+|2| Rev. Fr. Trevor Pereira|Assistant Director|
+|3| Bro. Edison Pereira|In-charge, Samadhi Seva & Hospitabil|
+|4| Ms. Christina Simon|Financial Officer|
+|5| Dr. Surendra Singh Rathod|Principal, Fr. CRCE|
+|6| Mr. Mangesh Mohan|In-charge Principal, Polytechnic|
+|7| Ms. Loren D'Mello|School Representative|
+|8| Mr. Mushtaq Malgundkar|Principal, Agnel I.T.I.|
+|9| Mr. Jayawant Raut|Senior Manager, AITTED|
+|10| Mr. Anthony Lobo|Purchase Manager|
+|11| Mr. Mahesh Sharma|system Administrator|

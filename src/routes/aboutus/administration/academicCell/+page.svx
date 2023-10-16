@@ -1,0 +1,10 @@
+#### Academic Cell
+
+|#|Name|Designation|
+|---|---|---|
+|1|Dr. Surendra Singh Rathod|Principal|
+|2|Dr. Sapna Prabhu|HOD, Electronics & Computer Science|
+|3|Dr. Bhushan Patil|HOD, Mechanical Engineering|
+|4|Dr. Jagruti Save|HOD, Artificial Intelligence & Data Science|
+|5|Dr. Sujata Deshmukh|HOD, Computer Engineering|
+|6|Mr. Dileep C.C.|HOD, Humanities & Science|

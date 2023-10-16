@@ -31,7 +31,6 @@
         image = { src: src, alt: alt, title: title };
         addImage();
 
-        
         // console.log(`src: ${src}`);
         // console.log(`alt: ${alt}`);
         // console.log(`title: ${title}`);
@@ -42,8 +41,6 @@
   }
 
   fetchData();
-
-  
 </script>
 
 <!-- hero section -->
@@ -117,6 +114,6 @@
   </div>
   <div class="flex overflow-hidden">
     <Card />
-    
   </div>
 </section>
+

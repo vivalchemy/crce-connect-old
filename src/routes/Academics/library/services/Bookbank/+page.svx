@@ -1,0 +1,5 @@
+####Book Bank Facility
+
+Book Bank facility is available for all Students starting from III sem to VIII sem. Two or more books are distributed for students every semester Books are issued for one semester and book bank books should be returned after the completion of the semester. No money is collected for the above service.
+
+Number of Books available in Book Bank: **6183**

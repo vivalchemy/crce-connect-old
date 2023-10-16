@@ -34,26 +34,47 @@
       />
     </NavLi>
     <Dropdown class="w-44 z-20">
-      <DropdownItem href="/">About CRCE</DropdownItem>
-      <DropdownItem href="/docs/components/navbar"
+      <DropdownItem href="/aboutus/aboutCrce">About CRCE</DropdownItem>
+      <DropdownItem href="/aboutus/directorsDesk"
         >From Director's Desk</DropdownItem
       >
-      <DropdownItem href="/">Principal - Dr. Surendra Singh Rathod</DropdownItem
+      <DropdownItem href="/aboutus/principal"
+        >Principal - Dr. Surendra Singh Rathod</DropdownItem
       >
-      <DropdownItem href="/">Vision Mission</DropdownItem>
+      <DropdownItem href="/aboutus/visionAndMission"
+        >Vision Mission</DropdownItem
+      >
       <DropdownItem class="flex items-center justify-between"
         >Administration<ChevronDownOutline
           class="w-3 h-3 ml-2 text-primary-800 dark:text-white inline"
         />
         <Dropdown class="w-44 z-20">
-          <DropdownItem href="/">Trustees</DropdownItem>
-          <DropdownItem href="/docs/components/navbar">Governance</DropdownItem>
-          <DropdownItem href="/">Governing Council</DropdownItem>
-          <DropdownItem href="/">Local Management Council</DropdownItem>
-          <DropdownItem href="/">College Development Committee</DropdownItem>
-          <DropdownItem href="/">Academic Cell</DropdownItem>
-          <DropdownItem href="/">Strategic Development Plan</DropdownItem>
-          <DropdownItem href="/">Service Rules</DropdownItem>
+          <DropdownItem href="/aboutus/administration/trustees"
+            >Trustees</DropdownItem
+          >
+          <DropdownItem href="/aboutus/administration/governingcouncil"
+            >Governance</DropdownItem
+          >
+          <DropdownItem href="/aboutus/administration/governingcouncil"
+            >Governing Council</DropdownItem
+          >
+          <DropdownItem href="/aboutus/administration/localManagement"
+            >Local Management Council</DropdownItem
+          >
+          <DropdownItem
+            href="/aboutus/administration/collageDevolopementCommitee"
+            >College Development Committee</DropdownItem
+          >
+          <DropdownItem href="/aboutus/administration/academicCell"
+            >Academic Cell</DropdownItem
+          >
+          <DropdownItem
+            href="/aboutus/administration/stratergicDevolopementPlan"
+            >Strategic Development Plan</DropdownItem
+          >
+          <DropdownItem href="/aboutus/administration/"
+            >Service Rules</DropdownItem
+          >
         </Dropdown>
       </DropdownItem>
 
@@ -62,15 +83,23 @@
           class="w-3 h-3 ml-2 text-primary-800 dark:text-white inline"
         />
         <Dropdown class="w-44 z-20">
-          <DropdownItem href="/">AICTE Approvals</DropdownItem>
-          <DropdownItem href="/docs/components/navbar">Core Values</DropdownItem
+          <DropdownItem href="/generalinfo/AITCEapprovals"
+            >AICTE Approvals</DropdownItem
           >
-          <DropdownItem href="/">Code of Conduct</DropdownItem>
+          <DropdownItem href="/generalinfo/corevalues">Core Values</DropdownItem
+          >
+          <DropdownItem href="/generalinfo/codeofconduct"
+            >Code of Conduct</DropdownItem
+          >
           <DropdownItem href="/">Telephone Directory</DropdownItem>
-          <DropdownItem href="/">Common Infrastructure</DropdownItem>
+          <DropdownItem href="/generalinfo/commoninfra"
+            >Common Infrastructure</DropdownItem
+          >
         </Dropdown>
       </DropdownItem>
-      <DropdownItem href="/">Mandatory Disclosure</DropdownItem>
+      <DropdownItem href="/ManditoryDisclosure"
+        >Mandatory Disclosure</DropdownItem
+      >
     </Dropdown>
 
     <!-- Drop down syntax -->
@@ -85,9 +114,11 @@
           class="w-3 h-3 ml-2 text-primary-800 dark:text-white inline"
         />
         <Dropdown class="w-44 z-20">
-          <DropdownItem href="/">About</DropdownItem>
-          <DropdownItem href="/docs/components/navbar">Staff</DropdownItem>
-          <DropdownItem href="/">Examination Process</DropdownItem>
+          <DropdownItem href="/Academics/examiantion/about">About</DropdownItem>
+          <DropdownItem href="/Academics/examiantion/staff">Staff</DropdownItem>
+          <DropdownItem href="/Academics/examiantion/examprocess"
+            >Examination Process</DropdownItem
+          >
         </Dropdown></DropdownItem
       >
       <DropdownItem class=" flex justify-between items-center"
@@ -95,10 +126,10 @@
           class="w-3 h-3 ml-2 text-primary-800 dark:text-white inline"
         />
         <Dropdown class="w-44 z-20">
-          <DropdownItem href="/">Teaching Learning Process</DropdownItem>
-          <DropdownItem href="/docs/components/navbar">Lesson Plan</DropdownItem
+          <DropdownItem href="/Academics/teachingProcess">Teaching Learning Process</DropdownItem>
+          <DropdownItem href="/Academics/teachingProcess/lessonplan">Lesson Plan</DropdownItem
           >
-          <DropdownItem href="/">Syllabus</DropdownItem>
+          <DropdownItem href="/Academics/teachingProcess/teachinglearning">Syllabus</DropdownItem>
         </Dropdown>
       </DropdownItem>
       <DropdownItem class=" flex justify-between items-center"
@@ -121,7 +152,7 @@
           class="w-3 h-3 ml-2 text-primary-800 dark:text-white inline"
         />
         <Dropdown class="w-44 z-20">
-          <DropdownItem href="/">Overview</DropdownItem>
+          <DropdownItem href="/Academics/RandD/overview">Overview</DropdownItem>
           <DropdownItem href="/docs/components/navbar"
             >Code of Ethics</DropdownItem
           >
