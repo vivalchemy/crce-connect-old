@@ -41,6 +41,7 @@
   }
 
   fetchData();
+
 </script>
 
 <!-- hero section -->
@@ -116,4 +117,3 @@
     <Card />
   </div>
 </section>
-
