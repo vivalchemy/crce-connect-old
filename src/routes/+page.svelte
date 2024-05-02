@@ -5,6 +5,7 @@
   import Card from "$lib/components/Card.svelte";
   import { db } from "$lib/firebase/firebase.js";
   import { collection, getDocs } from "firebase/firestore";
+  import Twitter from "$lib/components/Twitter.svelte";
 
   let images: { src: string; alt: string; title: string }[] = [];
 
@@ -117,3 +118,4 @@
     <Card />
   </div>
 </section>
+<Twitter />
